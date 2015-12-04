@@ -1,4 +1,4 @@
-//Paste this in: net.minecraft.client.gui;
+//replace this in: net.minecraft.client.gui.GuiNewChat.java;
 
 package net.minecraft.client.gui;
 
